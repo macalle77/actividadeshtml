@@ -1,0 +1,27 @@
+p{
+	margin:5em;
+	padding:5px;
+	background-color:#333333;
+	color:#FFFFFF;
+	font-family:"Comic Sans Ms";
+	font-size: 20px;
+}
+
+ul{
+	width:47em;
+	margin-left:15em;
+	list-style: none;
+}
+
+li{
+	width: 14em;
+	background:  #DDEEFF;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	float:left;
+}
+
+li:hover{
+	background-color:red;
+	color:white;
+}
